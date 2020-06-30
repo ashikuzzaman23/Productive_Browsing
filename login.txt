@@ -1,0 +1,3 @@
+mail: ashik23@gmail.com
+pass: 123456
+uid: VDthFJVS42SYCHJl9kf7ekHphsB3
